@@ -2,7 +2,7 @@ import c
 import unittest
 
 
-class TestContest510(unittest.TestCase):
+class TestContest430(unittest.TestCase):
 
     def test_problem_c(self):
         self.assertEqual(
